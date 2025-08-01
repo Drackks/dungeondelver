@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://sglvksq77o3y"]
+
+[node name="CombatHud" type="Node2D"]
