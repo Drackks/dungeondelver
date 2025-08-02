@@ -1,0 +1,8 @@
+res://Scenes/Player.tscn
+res://Scenes/Main.tscn
+res://Scenes/DungeonRoom.tscn
+res://Scenes/CombatScene.tscn
+res://Scenes/Rooms/FirstFloor.tscn
+res://Scripts/Player.gd
+res://Scripts/TestCombatManager.gd
+res://Scripts/Enemy.gd
